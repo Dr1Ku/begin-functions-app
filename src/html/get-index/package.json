@@ -1,0 +1,7 @@
+{
+  "name": "zeal-i7z-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
